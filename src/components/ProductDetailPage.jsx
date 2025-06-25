@@ -1,12 +1,12 @@
 import { useState, useRef } from "react";
 import { motion } from "framer-motion";
-import Img15 from "../assets/img15.png";
-import Img16 from "../assets/img16.png";
-import Img17 from "../assets/img17.png";
-import Img18 from "../assets/img18.png";
-import Img19 from "../assets/img19.png";
-import Img20 from "../assets/img20.png";
-import Img21 from "../assets/img21.png";
+import Img15 from "../assets/Img15.png";
+import Img16 from "../assets/Img16.png";
+import Img17 from "../assets/Img17.png";
+import Img18 from "../assets/Img18.png";
+import Img19 from "../assets/Img19.png";
+import Img20 from "../assets/Img20.png";
+import Img21 from "../assets/Img21.png";
 import { Link } from "react-router-dom";
 import { useCart } from "../components/CartContext";
 
