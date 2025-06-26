@@ -29,7 +29,7 @@ A sleek and responsive ecommerce web app built with React and Tailwind CSS. Incl
 
 ## 📸 Screenshots
 
-![App Screenshot](/assets/screenshots.PNG)
+![App Screenshot](./src/screenshots.PNG)
 
 ---
 
