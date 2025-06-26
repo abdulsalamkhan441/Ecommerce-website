@@ -37,6 +37,6 @@ A sleek and responsive ecommerce web app built with React and Tailwind CSS. Incl
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/ecommerce-website.git
+git clone https://github.com/abdulsalamkhan441/Ecommerce-website.git
 ```
 
